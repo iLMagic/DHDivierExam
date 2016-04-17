@@ -1,0 +1,18 @@
+PODS:
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - Masonry (1.0.0)
+  - YYModel (1.0.2)
+
+DEPENDENCIES:
+  - FMDB
+  - Masonry
+  - YYModel
+
+SPEC CHECKSUMS:
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  Masonry: b529bb169217897b6354d4b56b1fada6d475b13d
+  YYModel: 7a467eff45ae3641c33efb136c262d33b6f48c1a
+
+COCOAPODS: 0.39.0

@@ -1,0 +1,3 @@
+pod 'FMDB'
+pod 'Masonry'
+pod 'YYModel'
